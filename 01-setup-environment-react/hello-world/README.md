@@ -55,7 +55,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
 
     **Jawab:** 
-    ![](/src/assets/img/P1-2.png)
+    ![](../hello-world/src/assets/img/P1-2.png)
 
 ## Praktikum 2: Membuat Proyek Pertama React Menggunakan Next.js
 1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa istilah yang muncul. Jelaskan istilah tersebut TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack!
@@ -99,21 +99,20 @@ gambar pada tahap percobaan ke-3!
 
     **Jawab:**
     - Membuat Project React:
-    ![](/src/assets/img/P2-1.png)
+    ![](../hello-world/src/assets/img/P2-1.png)
 
     - Berhasil membuat project:
-    ![](/src/assets/img/P2-2.png)
+    ![](../hello-world/src/assets/img/P2-2.png)
 
     - Running project:
-    ![](/src/assets/img/P2-3.png)
-
+    ![](../hello-world/src/assets/img/P2-3.png)
 
 ## Praktikum 3: Menambahkan Komponen React (Button)
 1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah
 berhasil Anda lakukan!
 
     **Jawab:**
-    ![](/src/assets/img/P3.png)
+    ![](../hello-world/src/assets/img/P3.png)
 
 ## Praktikum 4: Menulis Markup dengan JSX
 1. Untuk apakah kegunaan sintaks user.imageUrl?
@@ -123,4 +122,4 @@ berhasil Anda lakukan!
 2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 
     **Jawab:**
-    ![](/src/assets/img/P4.png)
+    ![](../hello-world/src/assets/img/P4.png)
