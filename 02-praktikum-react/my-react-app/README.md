@@ -90,3 +90,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Praktikum 3: Menggunakan JSX untuk Membuat Komponen Dinamis
 ![alt text](../my-react-app/assets-report/P3.gif)
+
+## Praktikum 4: Menggunakan Props untuk Mengirim Data
+![alt text](../my-react-app/assets-report/P4.PNG)
