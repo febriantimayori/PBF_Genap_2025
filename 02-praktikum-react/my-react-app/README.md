@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Laporan Praktikum](#aporan-praktikum)
+[Laporan Praktikum](#aporan-praktikum)
 
 ## Available Scripts
 
@@ -79,8 +79,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | Kelas | TI - 3B |
 
 ## Praktikum 1: Menyiapkan Lingkungan Pengembangan
-- Inisialisasi proyek React
-  ![alt text](assets-report/P1-1.png)
+- Inisialisasi proyek React:
+  ![alt text](../my-react-app/assets-report/P1-1.PNG)
 
-- Menjalankan aplikasi React
-  ![alt text](assets-report/P1-2.png)
+- Menjalankan aplikasi React:
+  ![alt text](../my-react-app/assets-report/P1-2.PNG)
+
+## Praktikum 2: Membuat Komponen React
+![alt text](../my-react-app/assets-report/P2.PNG)
