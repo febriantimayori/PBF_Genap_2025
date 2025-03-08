@@ -93,3 +93,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Praktikum 4: Menggunakan Props untuk Mengirim Data
 ![alt text](../my-react-app/assets-report/P4.PNG)
+
+## Praktikum 5: Menggunakan State untuk Mengelola Data
+![alt text](../my-react-app/assets-report/P5.gif)
