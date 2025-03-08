@@ -80,13 +80,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Praktikum 1: Menyiapkan Lingkungan Pengembangan
 - Inisialisasi proyek React:
-  ![alt text](../my-react-app/assets-report/P1-1.png)
+  ![alt text](../my-react-app/assets-report/P1-1.PNG)
 
 - Menjalankan aplikasi React:
-  ![alt text](../my-react-app/assets-report/P1-2.png)
+  ![alt text](../my-react-app/assets-report/P1-2.PNG)
 
 ## Praktikum 2: Membuat Komponen React
-![alt text](../my-react-app/assets-report/P2.png)
+![alt text](../my-react-app/assets-report/P2.PNG)
 
 ## Praktikum 3: Menggunakan JSX untuk Membuat Komponen Dinamis
 ![alt text](../my-react-app/assets-report/P3.gif)
