@@ -3,6 +3,7 @@ import './App.css';
 import React, { useState } from 'react';
 import Counter from './Counter';
 import Greeting from './Greeting';
+import TodoList from './TodoList';
 
 function Example() {
   const [name, setName] = useState('');
@@ -68,6 +69,7 @@ function App() {
       <Greeting name="Mayori" />
       <Counter />
       <Example />
+      <TodoList />
       <Footer />
     </div>
   );

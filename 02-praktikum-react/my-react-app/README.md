@@ -96,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Praktikum 5: Menggunakan State untuk Mengelola Data
 ![alt text](../my-react-app/assets-report/P5.gif)
+
+## Tugas Praktikum: Membuat Komponen Todo List
+![alt text](../my-react-app/assets-report/TP.gif)
