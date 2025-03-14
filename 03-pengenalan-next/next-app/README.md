@@ -60,3 +60,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 3: Menggunakan Static Site Generation (SSG)
 ![alt text](../next-app/assets-report/P3.png)
+
+## Praktikum 4: Menggunakan Dynamic Routes
+![alt text](../next-app/assets-report/P4.png)
