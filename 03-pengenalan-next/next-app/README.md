@@ -50,7 +50,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 1: Menyiapkan Lingkungan Pengembangan
 - Inisialisasi proyek Next:
-  ![alt text](../next-app/assets-report/P1-1.PNG)
+  ![alt text](../next-app/assets-report/P1-1.png)
 
 - Menjalankan aplikasi Next:
-  ![alt text](../next-app/assets-report/P1-2.PNG)
+  ![alt text](../next-app/assets-report/P1-2.png)
