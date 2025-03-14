@@ -54,3 +54,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 - Menjalankan aplikasi Next:
   ![alt text](../next-app/assets-report/P1-2.png)
+
+## Praktikum 2: Membuat Halaman dengan Server-Side Rendering (SSR)
+![alt text](../next-app/assets-report/P2.png)
