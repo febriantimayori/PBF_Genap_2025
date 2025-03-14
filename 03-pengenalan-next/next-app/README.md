@@ -57,3 +57,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 2: Membuat Halaman dengan Server-Side Rendering (SSR)
 ![alt text](../next-app/assets-report/P2.png)
+
+## Praktikum 3: Menggunakan Static Site Generation (SSG)
+![alt text](../next-app/assets-report/P3.png)
