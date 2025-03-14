@@ -66,3 +66,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 5: Menggunakan API Routes
 ![alt text](../next-app/assets-report/P5.png)
+
+## Praktikum 6: Menggunakan Link Component
+![alt text](../next-app/assets-report/P6.gif)
