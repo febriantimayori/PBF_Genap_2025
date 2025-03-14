@@ -63,3 +63,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 4: Menggunakan Dynamic Routes
 ![alt text](../next-app/assets-report/P4.png)
+
+## Praktikum 5: Menggunakan API Routes
+![alt text](../next-app/assets-report/P5.png)
