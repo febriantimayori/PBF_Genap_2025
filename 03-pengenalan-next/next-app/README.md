@@ -69,3 +69,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 ## Praktikum 6: Menggunakan Link Component
 ![alt text](../next-app/assets-report/P6.gif)
+
+## Tugas Praktikum:
+1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users.
+  ![alt text](../next-app/assets-report/TP1.png)   
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.
+  ![alt text](../next-app/assets-report/TP2.gif)   
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
+  ![alt text](../next-app/assets-report/TP3.gif)   
