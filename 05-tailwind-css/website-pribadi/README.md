@@ -51,3 +51,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2. Menjalankan aplikasi Next:
   ![alt text](../website-pribadi/assets-report/P1-2.png)
 
+## Praktikum 2: Membuat Halaman Website
+1. Halaman "Tentang Saya":
+  ![alt text](../website-pribadi/assets-report/P2.png)
+
+2. Halaman "Proyek":
+  ![alt text](../website-pribadi/assets-report/P2-2.png)
+
+3. Halaman "Esai":
+  ![alt text](../website-pribadi/assets-report/P2-3.png)
