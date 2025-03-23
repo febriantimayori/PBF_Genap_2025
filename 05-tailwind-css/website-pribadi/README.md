@@ -60,3 +60,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 3. Halaman "Esai":
   ![alt text](../website-pribadi/assets-report/P2-3.png)
+
+## Praktikum 3: Membuat Layout dan Navigasi
+1. Halaman "Tentang Saya":
+  ![alt text](../website-pribadi/assets-report/P3.png)
+
+2. Halaman "Proyek":
+  ![alt text](../website-pribadi/assets-report/P3-2.png)
+
+3. Halaman "Esai":
+  ![alt text](../website-pribadi/assets-report/P3-3.png)
