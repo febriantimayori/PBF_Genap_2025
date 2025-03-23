@@ -13,7 +13,7 @@ type FooterLinkProps = {
   
   export default function Footer() {
     return (
-      <footer className="pt-10 px-8 pb-16 border-t">
+      <footer className="pt-10 px-6 pb-16 border-t">
         <div className="flex justify-between gap-6">
           <div className="flex gap-6 text-sm font-medium text-zinc-600">
             <FooterLink text="Tentang Saya" url="/" />

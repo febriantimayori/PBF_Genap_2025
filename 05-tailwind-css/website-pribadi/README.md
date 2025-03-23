@@ -70,3 +70,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 3. Halaman "Esai":
   ![alt text](../website-pribadi/assets-report/P3-3.png)
+
+## Praktikum 4: Membuat Halaman Proyek dengan Grid Responsif
+![alt text](../website-pribadi/assets-report/P4.png)
