@@ -73,3 +73,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Praktikum 4: Membuat Halaman Proyek dengan Grid Responsif
 ![alt text](../website-pribadi/assets-report/P4.png)
+
+## Tugas Praktikum:
+Eksplorasi Tailwindcss, kemudian,
+1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis
+   ![alt text](../website-pribadi/assets-report/TP1.png)
+2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik 
+   ![alt text](../website-pribadi/assets-report/TP2.png)
+
+**Ps:**
+Saya juga memodifikasi Footernya, hasil akhirnya seperti yang saya tampilkan pada Tugas Praktikum No. 2

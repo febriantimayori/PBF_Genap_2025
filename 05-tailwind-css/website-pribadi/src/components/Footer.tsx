@@ -1,27 +1,40 @@
-type FooterLinkProps = {
-    text: string;
-    url: string;
-  };
-  
-  function FooterLink({ text, url }: FooterLinkProps) {
-    return (
-      <a className="transition hover:text-teal-500" href={url}>
-        {text}
-      </a>
-    );
-  }
-  
-  export default function Footer() {
-    return (
-      <footer className="pt-10 px-6 pb-16 border-t">
-        <div className="flex justify-between gap-6">
-          <div className="flex gap-6 text-sm font-medium text-zinc-600">
-            <FooterLink text="Tentang Saya" url="/" />
-            <FooterLink text="Proyek" url="/projects" />
-            <FooterLink text="Esai" url="/essays" />
-          </div>
-          <p className="text-sm text-zinc-400">© 2025 Febrianti Mayori. All rights reserved.</p>
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+
+export default function Footer() {
+  return (
+    <footer className="bg-zinc-900 text-white py-8">
+      <div className="container mx-auto flex flex-col items-center">
+        <div className="flex gap-6 mb-4">
+          <a
+            href="https://github.com/febriantimayori"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-teal-400"
+          >
+            <FaGithub size={24} />
+          </a>
+          <a
+            href="https://linkedin.com/in/febriantimayori"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-teal-400"
+          >
+            <FaLinkedin size={24} />
+          </a>
+          <a
+            href="mailto:febriantimayori@gmail.com"
+            className="hover:text-teal-400"
+          >
+            <FaEnvelope size={24} />
+          </a>
         </div>
-      </footer>
-    );
-  }
+
+        <hr className="w-2/4 border-zinc-700 mb-4" />
+
+        <p className="text-sm text-gray-400 text-center">
+          © {new Date().getFullYear()} Febrianti Mayori. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  );
+}
