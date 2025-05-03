@@ -45,13 +45,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 | Kelas | TI - 3B |
 
 ## Praktikum: 
-1. Halaman "Tentang Saya":
+1. Update Favicon:
+  ![alt text](../website-pribadi/assets-report/Praktikum.png)
+
+2. Hasil menambahkan Metadata dan Open Graph Tags di Halaman "Tentang Saya":
   ![alt text](../website-pribadi/assets-report/P1.png)
 
-2. Halaman "Proyek":
+3. Hasil menambahkan Metadata dan Open Graph Tags di Halaman "Proyek":
   ![alt text](../website-pribadi/assets-report/P2.png)
 
-3. Halaman "Esai":
+4. Hasil menambahkan Metadata dan Open Graph Tags di Halaman "Esai":
   ![alt text](../website-pribadi/assets-report/P3.png)
 
 ## Tugas Praktikum:
