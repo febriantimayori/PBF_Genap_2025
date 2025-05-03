@@ -45,7 +45,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 | Kelas | TI - 3B |
 
 ## Praktikum: 
-1. Update Favicon:
+1. Update Favicon:  
   ![alt text](../website-pribadi/assets-report/Praktikum.png)
 
 2. Hasil menambahkan Metadata dan Open Graph Tags di Halaman "Tentang Saya":
