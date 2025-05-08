@@ -64,5 +64,8 @@ Lakukan pengujian SEO dengan,
 
    ![alt text](../website-pribadi/assets-report/TP1-2.png)
 
-**Ps:**
-Disini saya menggunakan Lighthouse yang tersedia di Chrome DevTools untuk melakukan pengujian SEO.
+   ![alt text](../website-pribadi/assets-report/TP1-3.png)
+
+   ![alt text](../website-pribadi/assets-report/TP1-4.png)
+
+**Ps:** Disini saya menggunakan Lighthouse yang tersedia di Chrome DevTools untuk melakukan pengujian SEO karena website masih lokal dan belum dipublikasikan secara online.
